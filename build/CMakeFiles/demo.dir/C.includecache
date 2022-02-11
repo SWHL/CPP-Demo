@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/da1/wangjiahua/CPlusPlus/demo/include/b.h
+math.h
+-
+
+/da1/wangjiahua/CPlusPlus/demo/src/b.c
+../include/b.h
+/da1/wangjiahua/CPlusPlus/demo/include/b.h
+

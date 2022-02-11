@@ -1,0 +1,1 @@
+/usr/local/bin/gcc    CMakeFiles/test_sqrt.dir/src/main.c.o  -o test_sqrt -lm 

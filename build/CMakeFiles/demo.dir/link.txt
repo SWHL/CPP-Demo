@@ -1,0 +1,1 @@
+/usr/local/bin/gcc    CMakeFiles/demo.dir/src/b.c.o CMakeFiles/demo.dir/src/main.c.o  -o demo -lm 

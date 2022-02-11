@@ -1,0 +1,3 @@
+/da1/wangjiahua/CPlusPlus/demo/build/CMakeFiles/rebuild_cache.dir
+/da1/wangjiahua/CPlusPlus/demo/build/CMakeFiles/demo.dir
+/da1/wangjiahua/CPlusPlus/demo/build/CMakeFiles/edit_cache.dir

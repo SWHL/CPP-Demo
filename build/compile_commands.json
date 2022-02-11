@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/da1/wangjiahua/CPlusPlus/demo/build",
+  "command": "/usr/local/bin/gcc  -I/da1/wangjiahua/CPlusPlus/demo/include    -o CMakeFiles/demo.dir/src/b.c.o   -c /da1/wangjiahua/CPlusPlus/demo/src/b.c",
+  "file": "/da1/wangjiahua/CPlusPlus/demo/src/b.c"
+},
+{
+  "directory": "/da1/wangjiahua/CPlusPlus/demo/build",
+  "command": "/usr/local/bin/gcc  -I/da1/wangjiahua/CPlusPlus/demo/include    -o CMakeFiles/demo.dir/src/main.c.o   -c /da1/wangjiahua/CPlusPlus/demo/src/main.c",
+  "file": "/da1/wangjiahua/CPlusPlus/demo/src/main.c"
+}
+]
